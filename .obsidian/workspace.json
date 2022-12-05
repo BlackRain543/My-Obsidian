@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "360c93949d759f46",
+        "id": "cf85067caae2fec5",
         "type": "tabs",
         "children": [
           {
-            "id": "206fb84fd2c57e17",
+            "id": "737ca172c6dd164a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "().md",
+                "file": "Demo/EXAMPLE.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "().md",
+                "file": "Demo/EXAMPLE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "().md",
+                "file": "Demo/EXAMPLE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "().md"
+                "file": "Demo/EXAMPLE.md"
               }
             }
           }
@@ -137,8 +136,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "206fb84fd2c57e17",
+  "active": "0217239c2092aba5",
   "lastOpenFiles": [
+    "().md",
     "Demo/EXAMPLE.md",
     "README.md",
     "2022-12-05.md"
