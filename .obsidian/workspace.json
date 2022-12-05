@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Demo/EXAMPLE.md",
+                "file": "().md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#标签",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Demo/EXAMPLE.md",
+                "file": "().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Demo/EXAMPLE.md",
+                "file": "().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Demo/EXAMPLE.md"
+                "file": "().md"
               }
             }
           }
@@ -138,8 +139,8 @@
   },
   "active": "206fb84fd2c57e17",
   "lastOpenFiles": [
+    "Demo/EXAMPLE.md",
     "README.md",
-    "2022-12-05.md",
-    "Demo/EXAMPLE.md"
+    "2022-12-05.md"
   ]
 }

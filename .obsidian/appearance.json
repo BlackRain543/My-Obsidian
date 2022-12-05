@@ -1,8 +1,9 @@
 {
   "accentColor": "",
-  "baseFontSize": 27,
-  "cssTheme": "Cybertron",
+  "baseFontSize": 25,
+  "cssTheme": "",
   "textFontFamily": "Consolas",
   "translucency": false,
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "theme": "obsidian"
 }
