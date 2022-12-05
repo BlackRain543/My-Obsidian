@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "MPC【Model Predictive Control】",
+      "path": "【拓展】课程/现代控制理论/MPC.md"
+    },
+    {
+      "type": "file",
+      "title": "矩阵",
+      "path": "【第1学期】课程/矩阵/【矩阵】.md"
+    },
+    {
+      "type": "file",
+      "title": "【Advanced Control】",
+      "path": "【拓展】课程/现代控制理论/【Advanced Control】.md"
+    }
+  ]
+}

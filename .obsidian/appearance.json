@@ -1,9 +1,7 @@
 {
+  "translucency": true,
+  "cssTheme": "ITS Theme",
+  "baseFontSize": 26,
   "accentColor": "",
-  "baseFontSize": 25,
-  "cssTheme": "",
-  "textFontFamily": "Consolas",
-  "translucency": false,
-  "baseFontSizeAction": true,
-  "theme": "obsidian"
+  "theme": "moonstone"
 }
