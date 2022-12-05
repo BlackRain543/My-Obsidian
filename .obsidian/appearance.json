@@ -1,7 +1,7 @@
 {
   "translucency": true,
-  "cssTheme": "ITS Theme",
+  "cssTheme": "Dracula for Obsidian",
   "baseFontSize": 26,
   "accentColor": "",
-  "theme": "moonstone"
+  "theme": "obsidian"
 }

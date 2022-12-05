@@ -8,7 +8,6 @@
 ---
 
 #### AI Hardware：
-![[Pasted image 20221014152156.png]]
 
 #### Generic EDA Flow for VLSI
 1. System Level Specification(系统级规范)
