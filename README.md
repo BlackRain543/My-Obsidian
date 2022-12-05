@@ -1,2 +1,2 @@
 # My-Obsidian
-obsidian notrbook
+obsidian notebook
