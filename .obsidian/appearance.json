@@ -1,7 +1,8 @@
 {
   "translucency": true,
-  "cssTheme": "Cyber Glow",
+  "cssTheme": "Obuntu",
   "baseFontSize": 28,
   "accentColor": "",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "nativeMenus": false
 }

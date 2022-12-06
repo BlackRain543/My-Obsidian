@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【第1学期】课程/EDA基础/VHDL.md",
+                "file": "矢量磁场控制/SVPWM.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【第1学期】课程/EDA基础/VHDL.md",
+                "file": "矢量磁场控制/SVPWM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "【第1学期】课程/EDA基础/VHDL.md",
+                "file": "矢量磁场控制/SVPWM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "【第1学期】课程/EDA基础/VHDL.md"
+                "file": "矢量磁场控制/SVPWM.md"
               }
             }
           }
@@ -152,15 +152,15 @@
   },
   "active": "5200ef17ba0a608f",
   "lastOpenFiles": [
+    "矢量磁场控制/Park + Inverse Park变换.md",
+    "【第1学期】课程/EDA基础/ASIC.md",
+    "【第1学期】课程/矩阵/基.md",
+    "【第1学期】课程/矩阵/二次型.md",
+    "矢量磁场控制/SVPWM.md",
+    "【第1学期】课程/EDA基础/VHDL.md",
     "【第1学期】课程/EDA基础/VLSI.md",
     "矢量磁场控制/BLDC.md",
     "矢量磁场控制/【FOC】.md",
-    "【第1学期】课程/EDA基础/VHDL.md",
-    "矢量磁场控制/SVPWM.md",
-    "矢量磁场控制/Clark + Inverse Clark变换.md",
-    "矢量磁场控制/Park + Inverse Park变换.md",
-    "【第1学期】课程/EDA基础/LS.md",
-    "【第1学期】课程/EDA基础/Mid Pre.md",
-    "Example.md"
+    "矢量磁场控制/Clark + Inverse Clark变换.md"
   ]
 }
