@@ -15,7 +15,7 @@ Very-High-Speed Integrated Circuit Hardware DescriptionLanguage
 * 独立性
 
 #### 4:1 multiplexer
-```
+```VHDL
 library IEEE;
 use IEEE.STD_LOGIC_1164.all;
 entity mux_4to1 is
@@ -46,7 +46,7 @@ end bhv;
 ```
 
 ##### 16-bit D-register with Asynchronous Reset
-```
+```VHDL
 ibrary IEEE;  
 use IEEE.std_logic_1164.all;
 
