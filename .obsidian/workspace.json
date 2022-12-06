@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【拓展】课程/经典控制理论/PID.md",
+                "file": "矢量磁场控制/SVPWM.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【拓展】课程/经典控制理论/PID.md",
+                "file": "矢量磁场控制/SVPWM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "【拓展】课程/经典控制理论/PID.md",
+                "file": "矢量磁场控制/SVPWM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "【拓展】课程/经典控制理论/PID.md"
+                "file": "矢量磁场控制/SVPWM.md"
               }
             }
           }
@@ -152,15 +152,15 @@
   },
   "active": "5200ef17ba0a608f",
   "lastOpenFiles": [
+    "矢量磁场控制/Park + Inverse Park变换.md",
     "矢量磁场控制/BLDC.md",
+    "【拓展】课程/经典控制理论/PID.md",
     "【第1学期】课程/矩阵/内积空间.md",
     "【第1学期】课程/矩阵/常用公式.md",
     "【第1学期】课程/EDA基础/DDR.md",
     "【第1学期】课程/EDA基础/ASIC.md",
     "【第1学期】课程/EDA基础/VLSI.md",
     "【第1学期】课程/EDA基础/VHDL.md",
-    "【第1学期】课程/EDA基础/Physical Design.md",
-    "【第1学期】课程/EDA基础/Mid Pre.md",
-    "【第1学期】课程/EDA基础/DSD.md"
+    "【第1学期】课程/EDA基础/Physical Design.md"
   ]
 }
