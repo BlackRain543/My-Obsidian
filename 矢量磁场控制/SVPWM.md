@@ -45,5 +45,10 @@ $$
 | Sector | 2   | 6   | 1   | 4   | 3   | 5   |
 
 $$
-\frac{x-\mu}{\sigma}
+\begin{align*}
+T &=a+b\\
+
+
+
+\end{align*}
 $$
