@@ -1,8 +1,9 @@
 {
   "translucency": true,
-  "cssTheme": "",
+  "cssTheme": "Dracula for Obsidian",
   "baseFontSize": 28,
-  "accentColor": "",
+  "accentColor": "#e665ca",
   "theme": "obsidian",
-  "nativeMenus": false
+  "nativeMenus": true,
+  "showViewHeader": false
 }

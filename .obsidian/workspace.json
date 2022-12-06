@@ -141,26 +141,33 @@
                 "file": "矢量磁场控制/SVPWM.md"
               }
             }
+          },
+          {
+            "id": "6f725d52f9ca6b91",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "5200ef17ba0a608f",
+  "active": "6f725d52f9ca6b91",
   "lastOpenFiles": [
+    "矢量磁场控制/Clark + Inverse Clark变换.md",
     "矢量磁场控制/Park + Inverse Park变换.md",
+    "【拓展】课程/经典控制理论/PID.md",
+    "矢量磁场控制/【FOC】.md",
+    "矢量磁场控制/BLDC.md",
+    "矢量磁场控制/SVPWM.md",
     "【第1学期】课程/EDA基础/ASIC.md",
     "【第1学期】课程/矩阵/基.md",
     "【第1学期】课程/矩阵/二次型.md",
-    "矢量磁场控制/SVPWM.md",
-    "【第1学期】课程/EDA基础/VHDL.md",
-    "【第1学期】课程/EDA基础/VLSI.md",
-    "矢量磁场控制/BLDC.md",
-    "矢量磁场控制/【FOC】.md",
-    "矢量磁场控制/Clark + Inverse Clark变换.md"
+    "【第1学期】课程/EDA基础/VHDL.md"
   ]
 }

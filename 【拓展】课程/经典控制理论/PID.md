@@ -6,6 +6,13 @@ PID
 积分项
 微分项
 
+```C++
+#include <cmath>
+
+class PIDController{
+
+};
+```
 
 
 
