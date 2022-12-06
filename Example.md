@@ -8,7 +8,7 @@ Note: please read me
 
 	please read this example example example example example example example example example example example example example
 
-```
+```python
 import drake
 
 print(drake.__version__)

@@ -1,9 +1,9 @@
 {
   "translucency": true,
-  "cssTheme": "Royal Velvet",
-  "baseFontSize": 20,
+  "cssTheme": "GitHub theme",
+  "baseFontSize": 27,
   "accentColor": "#d7771d",
   "theme": "obsidian",
-  "nativeMenus": false,
+  "nativeMenus": true,
   "showViewHeader": true
 }

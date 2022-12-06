@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "矢量磁场控制/SVPWM.md",
+                "file": "【拓展】课程/经典控制理论/PID.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "矢量磁场控制/SVPWM.md",
+                "file": "【拓展】课程/经典控制理论/PID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "矢量磁场控制/SVPWM.md",
+                "file": "【拓展】课程/经典控制理论/PID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "矢量磁场控制/SVPWM.md"
+                "file": "【拓展】课程/经典控制理论/PID.md"
               }
             }
           },
@@ -144,17 +144,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "02289152c84e19a2",
+  "active": "f2fa83658eb2a8a3",
   "lastOpenFiles": [
-    "矢量磁场控制/BLDC.md",
-    "矢量磁场控制/【FOC】.md",
-    "【拓展】课程/现代控制理论/BIBO稳定性.md",
-    "【拓展】课程/现代控制理论/Controllability.md",
-    "矢量磁场控制/SVPWM.md",
-    "未命名.md",
-    "【第1学期】课程/矩阵/常用公式.md",
+    "【拓展】课程/现代控制理论/Observability.md",
     "矢量磁场控制/Clark + Inverse Clark变换.md",
     "矢量磁场控制/Park + Inverse Park变换.md",
-    "【拓展】课程/经典控制理论/PID.md"
+    "Example.md",
+    "矢量磁场控制/SVPWM.md",
+    "【拓展】课程/现代控制理论/Stability.md",
+    "【拓展】课程/现代控制理论/Kalman Filter.md",
+    "【拓展】课程/现代控制理论/State-Space.md",
+    "【拓展】课程/现代控制理论/KF.md",
+    "【拓展】课程/现代控制理论/Controllability.md"
   ]
 }

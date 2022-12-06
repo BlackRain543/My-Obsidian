@@ -1,3 +1,4 @@
+判断依据：
 $$
 M_o = 
 \begin{bmatrix}
@@ -8,3 +9,4 @@ M_o =
 	CA^{n-1}
 \end{bmatrix}
 $$
+
