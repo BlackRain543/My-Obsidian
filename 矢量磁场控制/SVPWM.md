@@ -24,9 +24,20 @@ U_sT_s &= U_1T_1 + U_2T_2 + T_0
 \end{aligned}
 $$
 
+
+$$
+\begin{aligned}
+sector &= Angle_{el}*3 / \pi + 1 \\
+T_1 &= \sqrt{3}sin(sector * \pi - Angle_{el})*U_{ref} \\
+T_1 &= \sqrt{3}sin(Angle_{el} - (sector - 1.0) * \pi)*U_{ref} \\
+T_0 &= 1 - T_1 - T_2
+\end{aligned}
+$$
+
 $$
 N=4C + 2B + A
 $$
+
 N | 1 | 2 | 3 | 4 | 5 | 6 
  -|-  |-  |-  |-  |-  |-
  Sector|2  |6  |1  |4  |3  |5
