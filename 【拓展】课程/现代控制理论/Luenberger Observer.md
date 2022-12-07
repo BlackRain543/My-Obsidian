@@ -1,4 +1,4 @@
-**龙伯格观测器:** PLL
+**龙伯格观测器:** PLL（PhaseLockedLoop）锁相环
 
 Stability is classical control
 
