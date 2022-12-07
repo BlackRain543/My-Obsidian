@@ -8,8 +8,11 @@ $f_i(x,n) = f_i(x,e_j)n_j$
 ### Equilibrium Equations
 
 $$
-\partial \frac{T_{ij}}{x_{j}}
+\frac{\partial T_{ij}}{\partial x_{j}}
 $$
+### Energy Equation
+
+
 
 ##### Balance of energy:
 $$
