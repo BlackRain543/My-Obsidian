@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【拓展】课程/现代控制理论/Kalman Filter.md",
+                "file": "矢量磁场控制/BLDC.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309,
-    "collapsed": true
+    "width": 309
   },
   "right": {
     "id": "4bdc3d112eb1bcc1",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【拓展】课程/现代控制理论/Kalman Filter.md",
+                "file": "矢量磁场控制/BLDC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "【拓展】课程/现代控制理论/Kalman Filter.md",
+                "file": "矢量磁场控制/BLDC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "【拓展】课程/现代控制理论/Kalman Filter.md"
+                "file": "矢量磁场控制/BLDC.md"
               }
             }
           },
@@ -147,6 +146,7 @@
   },
   "active": "1808b1755a008c54",
   "lastOpenFiles": [
+    "【拓展】课程/现代控制理论/Kalman Filter.md",
     "【拓展】课程/现代控制理论/Luenberger Observer.md",
     "矢量磁场控制/SVPWM.md",
     "【第1学期】课程/矩阵/内积空间.md",
@@ -155,7 +155,6 @@
     "【第1学期】课程/EDA基础/DDR.md",
     "【第1学期】课程/矩阵/【矩阵】.md",
     "【第1学期】课程/矩阵/常用公式.md",
-    "【第1学期】课程/矩阵/共轭.md",
-    "【第1学期】课程/矩阵/特征值.md"
+    "【第1学期】课程/矩阵/共轭.md"
   ]
 }
