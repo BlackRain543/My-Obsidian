@@ -13,26 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【第1学期】课程/连续介质力学/Stress.md",
+                "file": "【第1学期】课程/EDA基础/Circuit Simulation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cf9fe713ac85c0f0",
+            "id": "1808b1755a008c54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【第1学期】课程/EDA基础/Physical Design.md",
+                "file": "【第1学期】课程/连续介质力学/Stress.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309
+    "width": 309,
+    "collapsed": true
   },
   "right": {
     "id": "4bdc3d112eb1bcc1",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【第1学期】课程/EDA基础/Physical Design.md",
+                "file": "【第1学期】课程/EDA基础/Circuit Simulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "【第1学期】课程/EDA基础/Physical Design.md",
+                "file": "【第1学期】课程/EDA基础/Circuit Simulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "【第1学期】课程/EDA基础/Physical Design.md"
+                "file": "【第1学期】课程/EDA基础/Circuit Simulation.md"
               }
             }
           },
@@ -157,17 +157,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cf9fe713ac85c0f0",
+  "active": "02289152c84e19a2",
   "lastOpenFiles": [
-    "【第1学期】课程/矩阵/XTAX.md",
+    "【第1学期】课程/连续介质力学/Stress.md",
+    "【第1学期】课程/EDA基础/Circuit Simulation.md",
     "【第1学期】课程/EDA基础/Physical Design.md",
+    "【第1学期】课程/EDA基础/电阻电容电感.md",
+    "【第1学期】课程/矩阵/XTAX.md",
     "【第1学期】课程/矩阵/【矩阵】.md",
     "【第1学期】课程/矩阵/内积空间.md",
     "【第1学期】课程/连续介质力学/【Continuum Mechanics】.md",
     "【第1学期】课程/EDA基础/【EDA】.md",
-    "【第1学期】课程/EDA基础/Circuit Simulation.md",
-    "【第1学期】课程/连续介质力学/Stress.md",
-    "【第1学期】课程/连续介质力学/Kinematics of a Continuum.md",
-    "矢量磁场控制/SVPWM.md"
+    "【第1学期】课程/连续介质力学/Kinematics of a Continuum.md"
   ]
 }

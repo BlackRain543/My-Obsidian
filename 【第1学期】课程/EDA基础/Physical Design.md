@@ -73,5 +73,6 @@ $$
 ### 3.1 Maze Routers
 **Basic Idea:** Expand → Backtrace → Cleanup
 
+	vias have relatively high resistance
 
 ### 3.2 Global Routing
