@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【拓展】课程/现代控制理论/LQR.md",
+                "file": "【拓展】课程/现代控制理论/MPC.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【拓展】课程/现代控制理论/LQR.md",
+                "file": "【拓展】课程/现代控制理论/MPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "【拓展】课程/现代控制理论/LQR.md",
+                "file": "【拓展】课程/现代控制理论/MPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "【拓展】课程/现代控制理论/LQR.md"
+                "file": "【拓展】课程/现代控制理论/MPC.md"
               }
             }
           },
@@ -146,6 +146,7 @@
   },
   "active": "1808b1755a008c54",
   "lastOpenFiles": [
+    "【拓展】课程/现代控制理论/LQR.md",
     "【拓展】课程/现代控制理论/Kalman Filter.md",
     "【拓展】课程/现代控制理论/Controllability.md",
     "【拓展】课程/现代控制理论/Stability.md",
@@ -154,7 +155,6 @@
     "【拓展】课程/现代控制理论/【Advanced Control】.md",
     "【拓展】课程/现代控制理论/Drake.md",
     "【拓展】课程/经典控制理论/PID.md",
-    "【第1学期】课程/连续介质力学/Stress.md",
-    "【第1学期】课程/EDA基础/Physical Design.md"
+    "【第1学期】课程/连续介质力学/Stress.md"
   ]
 }
