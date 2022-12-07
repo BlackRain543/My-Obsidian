@@ -16,20 +16,25 @@
 
 	BCE：Branch Constitutive Equations
 
-### Equation Formulation
+### 2.1 Equation Formulation
 $$
 \begin{align*}
-KCL: & K_{v}v + K_{i}i &= i_s\\
-VL: & Ai &=0\\
-B: & v-A^{T}e&= 0
+KCL: &  K_{v}v + K_{i}i &= i_s\\
+KVL: &  Ai &=0 \\
+BCE: &  v-A^{T}e&= 0
 \end{align*}
 
 $$
 
-### Nodal Analysis(NA)
+### 2.2 Nodal Analysis(NA)
 
 Nodal Matrix: $Y_{n}= i_{ns}$
 
-### Modified Nodal Analysis(MNA)
+### 2.3 Modified Nodal Analysis(MNA)
+#### Step:
+1. Write KCL
+2. Use branch equations to eliminate as many branch currents as possible
+3. Write down unused branch equations
+4. Use KVL to eliminate branch voltages from previous equations
 
 ## 2 DC Solution

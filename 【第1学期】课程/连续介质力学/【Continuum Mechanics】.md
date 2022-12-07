@@ -3,4 +3,4 @@
 [[Kronecker Delta]]
 [[Kinematics of a Continuum]]
 [[Stress]]
-[[Circuit Simulation]]
+
