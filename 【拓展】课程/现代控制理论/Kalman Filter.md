@@ -30,6 +30,7 @@ $$
 $$
 f_x\left( x \right) =\frac{1}{\sqrt{2\pi \sigma ^2}}e^{-\frac{\left( x-\mu \right) ^2}{2\sigma ^2}}
 $$
+
 * **Fact 1:** Independence between two Gaussians
 $$
 \begin{align*}
@@ -43,7 +44,9 @@ Z=AX+b - N(A\mu + b,A \sum\limits{A^T})
 $$
 * **Fact 3:** Conditional Gaussian is Gaussian
 $$
-\begin{bmatrix}X  \\  y\end{bmatrix} -
+\begin{bmatrix}X  \\  y\end{bmatrix} - N
+(\begin{bmatrix}u_{X} \\ u_{Y}\end{bmatrix},
+\begin{bmatrix} \sum_{X} & \sum_{XY} \\ \sum_{YX} & \sum_{Y}\end{bmatrix})
 $$
 
 
