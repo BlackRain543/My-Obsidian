@@ -87,8 +87,10 @@ $v_k$: measurement noise ~ $N(0,R_k)$
 
 $$
 \begin{align*}
-P_{(k|k)}&=  E((x_{k}- \hat{x_{k|k}})(x_{k}- \hat{x_{k|k}})^T|Y_{k})\\
-P_{(k|k-1)}&=  E((x_{k}- \hat{x_{k|k-1}})(x_{k}- \hat{x_{k|k-1}})^T|Y_{k-1})
+\hat{x}_{k|k} &= E(x_k|Y_k)\\
+\hat{x}_{k|k-1} &= E(x_k|Y_k-1)\\
+P_{(k|k)}&=  E((x_{k}- \hat{x}_{k|k})(x_{k}- \hat{x}_{k|k})^T|Y_{k})\\
+P_{(k|k-1)}&=  E((x_{k}- \hat{x}_{k|k-1})(x_{k}- \hat{x}_{k|k-1})^T|Y_{k-1})
 \end{align*}
 $$
 
