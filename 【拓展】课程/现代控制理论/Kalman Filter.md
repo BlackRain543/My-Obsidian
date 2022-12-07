@@ -25,13 +25,26 @@ X_{MMSE}= \varPhi_{MMSE}(y)=E(X|Y=y)
 $$
 
 ### 4.Gaussian Random Vectors
-1D Gaussian: $X ~ N(\mu, \sigma)$
+1D Gaussian: $X - N(\mu, \sigma)$
 
 $$
 f_x\left( x \right) =\frac{1}{\sqrt{2\pi \sigma ^2}}e^{-\frac{\left( x-\mu \right) ^2}{2\sigma ^2}}
 $$
-
-
+* **Fact 1:** Independence between two Gaussians
+$$
+\begin{align*}
+E(XX^{T})&= E(X) \cdot E(Y)^{T}\\\\
+Cov(X,Y) &= 0
+\end{align*}
+$$
+* **Fact 2:** Affine transformation of Gaussian is still Gaussian
+$$
+Z=AX+b - N(A\mu + b,A \sum\limits{A^T})
+$$
+* **Fact 3:** Conditional Gaussian is Gaussian
+$$
+\begin{bmatrix}X  \\  y\end{bmatrix} -
+$$
 
 
 ### 5. Kalman Filter Derivations
