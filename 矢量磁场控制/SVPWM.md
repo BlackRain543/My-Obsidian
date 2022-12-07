@@ -5,7 +5,6 @@ U_a &= U_m * cos\theta \\
 U_b &= U_m * cos(\theta - \frac{2\pi}{3} ) \\
 U_c &= U_m * cos(\theta + \frac{2\pi}{3} ) \\
 \end{aligned}
-
 $$
 
 #### 反Park变换：
@@ -49,18 +48,5 @@ $$
 |   N    | 1   | 2   | 3   | 4   | 5   | 6   |
 |:------:| --- | --- | --- | --- | --- | --- |
 | Sector | 2   | 6   | 1   | 4   | 3   | 5   |
-
-```python
-import Drake
-```
-
-```C++
-#include "math.h"
-
-int main(){
-	printf("Hello world!");
-}
-```
-
 
 
