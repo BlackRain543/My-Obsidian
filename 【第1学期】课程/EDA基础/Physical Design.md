@@ -1,4 +1,8 @@
-#### Step:
+# Back - End:
+
+## 1 illustrative View
+
+### Step:
 * Design Import
 * Power Planning(Floorplanning)
 * Placement
@@ -6,10 +10,14 @@
 * Detailed Route
 * Prepare Tape
 
+
 ---
 
-##### Foorplanning:
-###### Overview:
+## 2 Foorplanning:
+	between the logical description and physical description
+
+
+### 2.1 Overview:
 * Chip size
 * Number of Gates
 * Number of Metal layers
