@@ -26,7 +26,7 @@ X_{MMSE}= \varPhi_{MMSE}(y)=E(X|Y=y)
 $$
 
 $$
-E()
+E(||\varPhi(Y)-X||^2)
 $$
 
 ### 4.Gaussian Random Vectors
@@ -69,6 +69,7 @@ x_{k+1} &= A_kx_k+B_ku_k+w_k\\
 y_{k}&= C_kx_k+D_ku_k+v_k
 \end{align*}
 $$
+
 $x_k$: System state at time k
 $y_k$: measurement vector at time k
 $Y_k$: collection of measurements up to time k
