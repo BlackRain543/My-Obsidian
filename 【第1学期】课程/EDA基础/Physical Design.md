@@ -1,6 +1,7 @@
 # Back - End:
 
 ## 1 illustrative View
+---
 
 ### Step:
 * Design Import
@@ -10,10 +11,8 @@
 * Detailed Route
 * Prepare Tape
 
-
+## 2 Foorplanning
 ---
-
-## 2 Foorplanning:
 
 	between the logical description and physical description
 
@@ -66,8 +65,10 @@ $$
 \end{aligned}
 $$
 
+**Calculate the Distance**
 
-##### Routing:
-Maze Routers
+## 3 Routing
+---
 
-**Basic Ideas**:Expand → Backtrace → Cleanup
+### 3.1 Maze Routers
+**Basic Idea:** Expand → Backtrace → Cleanup

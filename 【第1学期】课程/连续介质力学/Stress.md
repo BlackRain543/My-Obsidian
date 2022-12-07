@@ -12,3 +12,7 @@ $$
 $$
 q_{i}= -k \frac{\partial \theta}{\partial x_i}
 $$
+
+$$
+\rhoe + \rhov_iv_i=(T_{ij}v_i)_{ij} + \rho b_{i}v_{i}+ \rhoR
+$$
