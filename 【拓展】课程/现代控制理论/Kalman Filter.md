@@ -83,3 +83,12 @@ $u_k$: system input at time k (deterministic input)
 $w_k$: process noise ~ $N(0,Q_k)$
 $v_k$: measurement noise ~ $N(0,R_k)$
 
+##### State estimation problem: Find the MMSE of $x_k$ given $Y_k$
+
+$$
+\begin{align*}
+P_{(k|k)}&=  E((x_{k}- \hat{x_{k|k}})(x_{k}- \hat{x_{k|k}})^T|Y_{k})\\
+P_{(k|k-1)}&=  E((x_{k}- \hat{x_{k|k-1}})(x_{k}- \hat{x_{k|k-1}})^T|Y_{k-1})
+\end{align*}
+$$
+
