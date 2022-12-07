@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【第1学期】课程/矩阵/Jordan标准型.md",
+                "file": "【拓展】课程/现代控制理论/Luenberger Observer.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【第1学期】课程/矩阵/Jordan标准型.md",
+                "file": "【拓展】课程/现代控制理论/Luenberger Observer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "【第1学期】课程/矩阵/Jordan标准型.md",
+                "file": "【拓展】课程/现代控制理论/Luenberger Observer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "【第1学期】课程/矩阵/Jordan标准型.md"
+                "file": "【拓展】课程/现代控制理论/Luenberger Observer.md"
               }
             }
           },
@@ -146,15 +146,15 @@
   },
   "active": "1808b1755a008c54",
   "lastOpenFiles": [
-    "【第1学期】课程/矩阵/行列式.md",
-    "【第1学期】课程/矩阵/共轭转置.md",
-    "【第1学期】课程/矩阵/秩.md",
-    "【第1学期】课程/矩阵/转置.md",
-    "【第1学期】课程/矩阵/旋转矩阵.md",
-    "Example.md",
-    "【第1学期】课程/EDA基础/DSD.md",
+    "【拓展】课程/现代控制理论/BIBO.md",
+    "【拓展】课程/现代控制理论/Observability.md",
+    "【拓展】课程/经典控制理论/PID.md",
     "【第1学期】课程/EDA基础/Circuit Simulation.md",
-    "【第1学期】课程/EDA基础/电阻电容电感.md",
-    "【第1学期】课程/EDA基础/ASIC.md"
+    "【第1学期】课程/EDA基础/DDR.md",
+    "【第1学期】课程/EDA基础/ASIC.md",
+    "【第1学期】课程/EDA基础/电阻 电容 电感.md",
+    "【第1学期】课程/EDA基础/【EDA】.md",
+    "矢量磁场控制/SVPWM.md",
+    "矢量磁场控制/Park + Inverse Park变换.md"
   ]
 }

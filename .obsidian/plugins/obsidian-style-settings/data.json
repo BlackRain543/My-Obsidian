@@ -2,5 +2,6 @@
   "blue-topaz-theme@@color-scheme-options": "null",
   "blue-topaz-theme@@notebook-liked-markdown-page-options": "notebook-liked-markdown-page-grid-notebook-2",
   "blue-topaz-theme@@left-ribbon-style": "default-left-ribbon-style",
-  "blue-topaz-theme@@background-image-settings-switch": false
+  "blue-topaz-theme@@background-image-settings-switch": false,
+  "blue-topaz-theme@@background-notebook-liked-switch": false
 }

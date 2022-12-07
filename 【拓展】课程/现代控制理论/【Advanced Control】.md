@@ -11,8 +11,8 @@
 * [[Observability]]
 
 [[控制器]]
-[[龙伯格观测器]]
-[[BIBO稳定性]]
+[[Luenberger Observer]]
+[[BIBO]]
 
 [[Drake]]
 

@@ -38,3 +38,5 @@ Nodal Matrix: $Y_{n}= i_{ns}$
 4. Use KVL to eliminate branch voltages from previous equations
 
 ## 2 DC Solution
+
+## 3 I don not know

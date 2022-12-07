@@ -21,6 +21,6 @@
 [[Physical Design]]
 [[Circuit Simulation]]
 
-[[电阻电容电感]]
+[[电阻 电容 电感]]
 
 [[Mid Pre]]（**期中报告**）
