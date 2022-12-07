@@ -20,8 +20,13 @@ E(X)  &= \sum_x x \cdot Prob(X = x)
 $$
 
 ### 3.MMSE: Minimum Mean Squared Estimation
+最小均方差估计：
 $$
 X_{MMSE}= \varPhi_{MMSE}(y)=E(X|Y=y)
+$$
+
+$$
+E()
 $$
 
 ### 4.Gaussian Random Vectors
@@ -71,7 +76,6 @@ $Y_k$: collection of measurements up to time k
 $u_k$: system input at time k (deterministic input)
 $w_k$: process noise ~ $N(0,Q_k)$
 $v_k$: measurement noise ~ $N(0,R_k)$
-
 
 
 
