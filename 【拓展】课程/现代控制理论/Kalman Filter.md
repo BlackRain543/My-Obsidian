@@ -23,10 +23,14 @@ $$
 
 
 ### 4. Kalman Filter Derivations
-
-
-
-
+$$
+\begin{align*}
+x_{k+1} &= A_kx_k+B_ku_k+w_k\\
+y_{k}&= C_kx_k+D_ku_k+v_k
+\end{align*}
+$$
+$x_k$: System state at time k
+$y_k$: measurement vector
 
 
 
