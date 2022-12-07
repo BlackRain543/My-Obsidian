@@ -46,12 +46,12 @@
 3. Partial  Blockage
 4. Halo
 
-###### Placement Flow:
+#### Placement Flow:
 * Global
 * Detailed
 
-## 布局分析方法：
-###### Simple Placer:(EXAM)
+### 2.2  布局分析方法：
+#### Simple Placer:(EXAM)
 
 $$
 HPWL = \Delta X + \Delta Y
@@ -62,13 +62,10 @@ $$
 
 $$
 \begin{aligned}
-\frac{\partial f}{\partial x} = 0 \\
-\frac{\partial f}{\partial y} = 0
+\frac{\partial f}{\partial x} = 0， \frac{\partial f}{\partial y} = 0
 \end{aligned}
 $$
 
-$C, A, b_x, b_y$
-$Ax=b_x, Ay=b_y$
 
 ##### Routing:
 Maze Routers
