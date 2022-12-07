@@ -1,3 +1,3 @@
-# My-Obsidian
+# Obsidian notebook
 
-obsidian notebook
+#obsidian #notebook #SUSTech

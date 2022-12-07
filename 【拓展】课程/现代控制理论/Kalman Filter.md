@@ -17,7 +17,7 @@ $$
 $$
 \begin{aligned}
 E(AX) &= AE(X) \\
-E(X)  &= \sum_x x \cdot Prob(X = x)
+E(X)  &= \varSigma_x x \cdot Prob(X = x)
 \end{aligned}
 $$
 
