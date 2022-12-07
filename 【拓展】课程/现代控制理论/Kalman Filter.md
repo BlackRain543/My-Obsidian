@@ -19,15 +19,22 @@ E(X)  &= \sum_x x \cdot Prob(X = x)
 \end{aligned}
 $$
 
-**MMSE:** Minimum Mean Squared Estimation
+### 3.MMSE: Minimum Mean Squared Estimation
 $$
-X_{MMSE}=
+X_{MMSE}= \varPhi_{MMSE}(y)=E(X|Y=y)
 $$
 
-### 3.Gaussian Random Vectors
+### 4.Gaussian Random Vectors
+1D Gaussian: $X ~ N(\mu, \sigma)$
+
+$$
+f_x\left( x \right) =\frac{1}{\sqrt{2\pi \sigma ^2}}e^{-\frac{\left( x-\mu \right) ^2}{2\sigma ^2}}
+$$
 
 
-### 4. Kalman Filter Derivations
+
+
+### 5. Kalman Filter Derivations
 $$
 \begin{align*}
 x_{k+1} &= A_kx_k+B_ku_k+w_k\\
@@ -41,6 +48,8 @@ $Y_k$: collection of measurements up to time k
 $u_k$: system input at time k (deterministic input)
 $w_k$: process noise ~ $N(0,Q_k)$
 $v_k$: measurement noise ~ $N(0,R_k)$
+
+
 
 
 
