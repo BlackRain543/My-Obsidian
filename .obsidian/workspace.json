@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【第1学期】课程/EDA基础/VLSI.md",
+                "file": "【第1学期】课程/连续介质力学/Stress.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【第1学期】课程/EDA基础/VLSI.md",
+                "file": "【第1学期】课程/连续介质力学/Stress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "【第1学期】课程/EDA基础/VLSI.md",
+                "file": "【第1学期】课程/连续介质力学/Stress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "【第1学期】课程/EDA基础/VLSI.md"
+                "file": "【第1学期】课程/连续介质力学/Stress.md"
               }
             }
           },
@@ -146,8 +146,8 @@
   },
   "active": "02289152c84e19a2",
   "lastOpenFiles": [
-    "矢量磁场控制/SVPWM.md",
     "【第1学期】课程/EDA基础/VLSI.md",
+    "矢量磁场控制/SVPWM.md",
     "【第1学期】课程/EDA基础/电阻电容电感.md",
     "【第1学期】课程/EDA基础/Physical Design.md",
     "矢量磁场控制/【FOC】.md",
