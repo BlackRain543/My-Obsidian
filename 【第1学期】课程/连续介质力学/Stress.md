@@ -2,7 +2,9 @@
 $f_i(x,n) = f_i(x,e_j)n_j$
 
 
+##### Balance of energy:
 $$
-\frac{d}{dt}\int{\rho dv\left( e+\frac{1}{2}v_iv_i \right) =
+\frac{d}{dt}\int{\rho dv \left( e+\frac{1}{2}v_iv_i \right)} =
 \oint{f_iv_ida}+\int{\rho b_iv_idv}+\int{\rho dvR}+\oint{hda}
 $$
+
