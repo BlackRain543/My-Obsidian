@@ -72,3 +72,6 @@ $$
 
 ### 3.1 Maze Routers
 **Basic Idea:** Expand → Backtrace → Cleanup
+
+
+### 3.2 Gloval Routing

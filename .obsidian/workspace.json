@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【第1学期】课程/连续介质力学/Stress.md",
+                "file": "【第1学期】课程/EDA基础/Physical Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "【第1学期】课程/连续介质力学/Stress.md",
+                "file": "【第1学期】课程/EDA基础/Physical Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "【第1学期】课程/连续介质力学/Stress.md"
+                "file": "【第1学期】课程/EDA基础/Physical Design.md"
               }
             }
           },
@@ -157,10 +158,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "02289152c84e19a2",
+  "active": "cf9fe713ac85c0f0",
   "lastOpenFiles": [
-    "【第1学期】课程/EDA基础/Physical Design.md",
     "【第1学期】课程/连续介质力学/Stress.md",
+    "【第1学期】课程/EDA基础/Physical Design.md",
     "【第1学期】课程/连续介质力学/Kinematics of a Continuum.md",
     "矢量磁场控制/SVPWM.md",
     "矢量磁场控制/Clark + Inverse Clark变换.md",
