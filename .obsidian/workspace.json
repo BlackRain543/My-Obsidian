@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "05247b234f77076f",
+        "id": "6f03e781295bba3b",
         "type": "tabs",
         "children": [
           {
-            "id": "1808b1755a008c54",
+            "id": "2f530aef8ba97b13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【第1学期】课程/矩阵/常用公式.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5200ef17ba0a608f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309,
-    "collapsed": true
+    "width": 216
   },
   "right": {
     "id": "4bdc3d112eb1bcc1",
@@ -129,33 +141,26 @@
                 "file": "【拓展】课程/现代控制理论/Kalman Filter.md"
               }
             }
-          },
-          {
-            "id": "6f725d52f9ca6b91",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "1808b1755a008c54",
+  "active": "5200ef17ba0a608f",
   "lastOpenFiles": [
-    "【拓展】课程/现代控制理论/Luenberger Observer.md",
-    "矢量磁场控制/BLDC.md",
-    "【拓展】课程/现代控制理论/Kalman Filter.md",
+    "【拓展】课程/现代控制理论/Drake.md",
     "矢量磁场控制/SVPWM.md",
+    "矢量磁场控制/Park + Inverse Park变换.md",
+    "矢量磁场控制/BLDC.md",
+    "【拓展】课程/经典控制理论/PID.md",
     "【第1学期】课程/矩阵/内积空间.md",
-    "【第1学期】课程/矩阵/基.md",
-    "【第1学期】课程/矩阵/Jordan标准型.md",
+    "【第1学期】课程/矩阵/常用公式.md",
     "【第1学期】课程/EDA基础/DDR.md",
-    "【第1学期】课程/矩阵/【矩阵】.md",
-    "【第1学期】课程/矩阵/常用公式.md"
+    "【第1学期】课程/EDA基础/ASIC.md",
+    "【第1学期】课程/EDA基础/VLSI.md"
   ]
 }
