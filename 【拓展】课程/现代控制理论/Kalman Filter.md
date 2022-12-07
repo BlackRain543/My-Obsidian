@@ -50,7 +50,7 @@ Cov(X,Y) &= 0
 $$
 * ##### Fact 2: Affine transformation of Gaussian is still Gaussian
 $$
-Z=AX+b - N(A\mu + b,A \sum\limits{A^T})
+Z=AX+b - N(A\mu + b,A \sum{A^T})
 $$
 * ##### Fact 3: Conditional Gaussian is Gaussian
 $$
