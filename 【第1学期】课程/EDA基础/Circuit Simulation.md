@@ -27,4 +27,6 @@ $$
 
 ### Nodal Analysis(NA)
 
-Nodal Matrix:$Y_{n}= i_{ns}$
+Nodal Matrix: $Y_{n}= i_{ns}$
+
+### Modified Nodal Analysis(MNA)
