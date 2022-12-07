@@ -15,3 +15,16 @@
 
 	BCE：Branch Constitutive Equations
 
+### Equation Formulation
+$$
+\begin{align*}
+K_{v}v + K_{i}i &= i_s\\
+Ai &=0\\
+v-A^{T}e&= 0
+\end{align*}
+
+$$
+
+### Nodal Analysis(NA)
+
+Nodal Matrix:$Y_{n}= i_{ns}$
