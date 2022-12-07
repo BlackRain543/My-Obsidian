@@ -96,5 +96,6 @@ $$
 
 ##### Goal of Kalman Filter: obtain recursive formula
 $$
-\begin{bmatrix}\hat_{x} P_{x}\end{bmatrix}
+\begin{bmatrix} \hat x_{k }   \\ P_{k}\end{bmatrix} --->
+\begin{bmatrix} \hat x_{k+1}   \\ P_{k+1}\end{bmatrix} 
 $$
