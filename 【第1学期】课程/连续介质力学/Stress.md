@@ -1,10 +1,15 @@
 $t_{n}= Tn$
 
-Principle of moment of momentum: 
+### Principle of moment of momentum:
 
 应力分析：
 $f_i(x,n) = f_i(x,e_j)n_j$
 
+### Equilibrium Equations
+
+$$
+\partial \frac{T_{ij}}{x_{j}}
+$$
 
 ##### Balance of energy:
 $$
