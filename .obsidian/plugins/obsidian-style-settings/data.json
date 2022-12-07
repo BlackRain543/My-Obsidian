@@ -4,5 +4,6 @@
   "Blue-Topaz-Codebox-Highlight@@blur-codebox-frosted-glass": 3,
   "blue-topaz-theme@@color-scheme-options": "null",
   "blue-topaz-theme@@muted-activeline-bg": false,
-  "Blue-Topaz-Codebox-Highlight@@code-box-style-option": "codebox-frosted-glass"
+  "Blue-Topaz-Codebox-Highlight@@code-box-style-option": "codebox-frosted-glass",
+  "blue-topaz-theme@@transparent-setting-panel": false
 }

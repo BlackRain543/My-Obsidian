@@ -50,7 +50,15 @@ $$
 |:------:| --- | --- | --- | --- | --- | --- |
 | Sector | 2   | 6   | 1   | 4   | 3   | 5   |
 
-```C++
+```python
 import Drake
-
 ```
+
+```C++
+#include "math.h"
+
+int main(){
+	printf("Hello world!");
+}
+```
+
