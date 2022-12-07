@@ -48,6 +48,13 @@ $$
 (\begin{bmatrix}u_{X} \\ u_{Y}\end{bmatrix},
 \begin{bmatrix} \sum_{X} & \sum_{XY} \\ \sum_{YX} & \sum_{Y}\end{bmatrix})
 $$
+Hence,
+$$
+\begin{align*}
+\mu_{X|Y=y}  &= \mu_{X} + \sum_{XY} \sum_{Y}^{-1}(y-\mu_Y)\\
+\sum_{X|Y=y} &= \sum_{X} - \sum_{XY} \sum_{Y}^{-1}\sum_{YX}
+\end{align*}
+$$
 
 
 ### 5. Kalman Filter Derivations
