@@ -1,3 +1,4 @@
+## 1 Netlist & Equations
 	DRC:Design Rule Check
 	LVS:Layout vs Schematic
 	RC:RLC Extraction
@@ -18,9 +19,9 @@
 ### Equation Formulation
 $$
 \begin{align*}
-K_{v}v + K_{i}i &= i_s\\
-Ai &=0\\
-v-A^{T}e&= 0
+KCL: & K_{v}v + K_{i}i &= i_s\\
+VL: & Ai &=0\\
+B: & v-A^{T}e&= 0
 \end{align*}
 
 $$
@@ -30,3 +31,5 @@ $$
 Nodal Matrix: $Y_{n}= i_{ns}$
 
 ### Modified Nodal Analysis(MNA)
+
+## 2 DC Solution
