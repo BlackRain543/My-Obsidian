@@ -50,19 +50,20 @@ Cov(X,Y) &= 0
 $$
 * ##### Fact 2: Affine transformation of Gaussian is still Gaussian
 $$
-Z=AX+b - N(A\mu + b,A \sum{A^T})
+Z=AX+b - N(A\mu + b,A \varSigma {A^T})
 $$
 * ##### Fact 3: Conditional Gaussian is Gaussian
 $$
 \begin{bmatrix}X  \\  y\end{bmatrix} - N
 (\begin{bmatrix}u_{X} \\ u_{Y}\end{bmatrix},
-\begin{bmatrix} \sum_{X} & \sum_{XY} \\ \sum_{YX} & \sum_{Y}\end{bmatrix})
+\begin{bmatrix} \varSigma _{X} & \varSigma _{XY} \\ \varSigma _{YX} & \varSigma _{Y}\end{bmatrix})
 $$
 Hence,
+
 $$
 \begin{align*}
-\mu_{X|Y=y}  &= \mu_{X} + \sum_{XY} \sum_{Y}^{-1}(y-\mu_Y)\\
-\sum_{X|Y=y} &= \sum_{X} - \sum_{XY} \sum_{Y}^{-1}\sum_{YX}
+\mu_{X|Y=y}  &= \mu_{X} + \varSigma _{XY} \varSigma _{Y}^{-1}(y-\mu_Y)\\
+\varSigma _{X|Y=y} &= \varSigma _{X} - \varSigma _{XY} \varSigma _{Y}^{-1}\varSigma _{YX}
 \end{align*}
 $$
 
@@ -100,5 +101,4 @@ $$
 \begin{bmatrix} \hat x_{k }   \\ P_{k}\end{bmatrix} --->
 \begin{bmatrix} \hat x_{k+1}   \\ P_{k+1}\end{bmatrix} 
 $$
-
 

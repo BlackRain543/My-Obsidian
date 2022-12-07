@@ -39,4 +39,4 @@ Nodal Matrix: $Y_{n}= i_{ns}$
 
 ## 2 DC Solution
 
-## 3 I don not know
+## 3 
