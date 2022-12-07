@@ -14,5 +14,9 @@ q_{i}= -k \frac{\partial \theta}{\partial x_i}
 $$
 
 $$
-\rhoe + \rhov_iv_i=(T_{ij}v_i)_{ij} + \rho b_{i}v_{i}+ \rhoR
+\begin{align*}
+\hat{\rho} e + \rho v_{i} \hat{v_{i}} &= (T_{ij}v_i)_{ij} + \rho b_{i}v_{i}+ \rho R - q_i \\
+(T_{ij}v_i)_{ij} &= v_{i} \frac{\partial T_{ij}}{\partial x_j}+ T_{ij} \frac{\partial v_i}{\partial x_j}
+\end{align*}
+
 $$
