@@ -74,4 +74,4 @@ $$
 **Basic Idea:** Expand → Backtrace → Cleanup
 
 
-### 3.2 Gloval Routing
+### 3.2 Global Routing
