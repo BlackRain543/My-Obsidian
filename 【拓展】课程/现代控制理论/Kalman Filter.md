@@ -19,6 +19,11 @@ E(X)  &= \sum_x x \cdot Prob(X = x)
 \end{aligned}
 $$
 
+**MMSE:** Minimum Mean Squared Estimation
+$$
+X_{MMSE}=
+$$
+
 ### 3.Gaussian Random Vectors
 
 
@@ -30,7 +35,12 @@ y_{k}&= C_kx_k+D_ku_k+v_k
 \end{align*}
 $$
 $x_k$: System state at time k
-$y_k$: measurement vector
+$y_k$: measurement vector at time k
+$Y_k$: collection of measurements up to time k
+
+$u_k$: system input at time k (deterministic input)
+$w_k$: process noise ~ $N(0,Q_k)$
+$v_k$: measurement noise ~ $N(0,R_k)$
 
 
 
