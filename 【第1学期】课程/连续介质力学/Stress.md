@@ -8,3 +8,7 @@ $$
 \oint{f_iv_ida}+\int{\rho b_iv_idv}+\int{\rho dvR}+\oint{hda}
 $$
 
+##### Fourer's law:
+$$
+q_{i}= -k \frac{\partial \theta}{\partial x_i}
+$$

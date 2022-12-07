@@ -14,8 +14,8 @@
 ---
 
 ## 2 Foorplanning:
-	between the logical description and physical description
 
+	between the logical description and physical description
 
 ### 2.1 Overview:
 * Chip size
@@ -28,17 +28,19 @@
 * Clocking Scheme
 * Flat or Hierarchical
 
-###### Chip Size:
+	**Utilization:利用率
+
+#### Chip Size Choose:
 * Core Limited
 * Pad Limited
 
-###### Placement regions:
+#### Placement regions:
 1. Soft guide
 2. Guide
 3. Region
 4. Fence
 
-###### Placement Blockages and Halos:
+#### Placement Blockages and Halos:
 1. Hard Blockage
 2. Soft Blockage
 3. Partial  Blockage
