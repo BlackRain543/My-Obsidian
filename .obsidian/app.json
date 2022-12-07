@@ -2,6 +2,6 @@
   "promptDelete": false,
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
-  "showInlineTitle": false,
+  "showInlineTitle": true,
   "autoPairMarkdown": false
 }

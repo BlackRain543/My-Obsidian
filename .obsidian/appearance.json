@@ -1,10 +1,11 @@
 {
   "translucency": true,
-  "cssTheme": "Royal Velvet",
+  "cssTheme": "Blue Topaz",
   "baseFontSize": 21,
-  "accentColor": "#d7771d",
+  "accentColor": "#de8117",
   "theme": "obsidian",
   "nativeMenus": true,
   "showViewHeader": true,
-  "monospaceFontFamily": "Consolas"
+  "monospaceFontFamily": "Consolas",
+  "textFontFamily": "微软雅黑"
 }

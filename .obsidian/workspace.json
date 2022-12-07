@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【第1学期】课程/矩阵/奇异值.md",
+                "file": "矢量磁场控制/SVPWM.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【第1学期】课程/矩阵/奇异值.md",
+                "file": "矢量磁场控制/SVPWM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "【第1学期】课程/矩阵/奇异值.md",
+                "file": "矢量磁场控制/SVPWM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "【第1学期】课程/矩阵/奇异值.md"
+                "file": "矢量磁场控制/SVPWM.md"
               }
             }
           },
@@ -144,17 +144,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f2fa83658eb2a8a3",
+  "active": "02289152c84e19a2",
   "lastOpenFiles": [
+    "矢量磁场控制/Park + Inverse Park变换.md",
+    "【第1学期】课程/EDA基础/ASIC.md",
+    "【第1学期】课程/矩阵/奇异值.md",
     "【第1学期】课程/矩阵/维数.md",
     "【第1学期】课程/矩阵/求逆.md",
     "【第1学期】课程/矩阵/基.md",
     "【第1学期】课程/矩阵/过渡矩阵.md",
     "【第1学期】课程/矩阵/共轭.md",
     "【第1学期】课程/矩阵/二次型.md",
-    "【第1学期】课程/矩阵/初等变换.md",
-    "【第1学期】课程/矩阵/常用公式.md",
-    "【第1学期】课程/矩阵/【矩阵】.md",
-    "【第1学期】课程/EDA基础/电阻电容电感.md"
+    "【第1学期】课程/矩阵/初等变换.md"
   ]
 }
