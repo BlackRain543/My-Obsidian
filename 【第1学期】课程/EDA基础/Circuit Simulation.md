@@ -37,6 +37,10 @@ Nodal Matrix: $Y_{n}= i_{ns}$
 3. Write down unused branch equations
 4. Use KVL to eliminate branch voltages from previous equations
 
+##### 电压控制电流源 VCCS
+##### 电流控制电压源 CCVS
+##### 电压控制电流源 VCCS
+##### 电压控制电流源 VCCS
 ## 2 DC Solution
 
 ## 3 

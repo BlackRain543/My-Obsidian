@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【拓展】课程/现代控制理论/Luenberger Observer.md",
+                "file": "【第1学期】课程/EDA基础/Circuit Simulation.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【拓展】课程/现代控制理论/Luenberger Observer.md",
+                "file": "【第1学期】课程/EDA基础/Circuit Simulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "【拓展】课程/现代控制理论/Luenberger Observer.md",
+                "file": "【第1学期】课程/EDA基础/Circuit Simulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "【拓展】课程/现代控制理论/Luenberger Observer.md"
+                "file": "【第1学期】课程/EDA基础/Circuit Simulation.md"
               }
             }
           }
@@ -152,14 +152,14 @@
   },
   "active": "5200ef17ba0a608f",
   "lastOpenFiles": [
+    "【第1学期】课程/EDA基础/Physical Design.md",
+    "【拓展】课程/现代控制理论/Luenberger Observer.md",
     "README.md",
     "未命名.md",
     "Example.md",
     "矢量磁场控制/SVPWM.md",
     "矢量磁场控制/Park + Inverse Park变换.md",
     "【拓展】课程/现代控制理论/Kalman Filter.md",
-    "【拓展】课程/现代控制理论/Luenberger Observer.md",
-    "【第1学期】课程/EDA基础/Physical Design.md",
     "【第1学期】课程/EDA基础/Mid Pre.md",
     "【第1学期】课程/EDA基础/Circuit Simulation.md"
   ]
