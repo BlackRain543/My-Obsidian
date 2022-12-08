@@ -26,6 +26,8 @@ BCE: &  v-A^{T}e&= 0
 
 $$
 
+各节点中，流出的电流为+，流入的电流为-
+
 ### 2.2 Nodal Analysis(NA)
 
 Nodal Matrix: $Y_{n}= i_{ns}$
@@ -37,10 +39,12 @@ Nodal Matrix: $Y_{n}= i_{ns}$
 3. Write down unused branch equations
 4. Use KVL to eliminate branch voltages from previous equations
 
+
+##### 电压控制电压源 VCVS
 ##### 电压控制电流源 VCCS
+
 ##### 电流控制电压源 CCVS
-##### 电压控制电流源 VCCS
-##### 电压控制电流源 VCCS
+##### 电压控制电流源 CCCS
 ## 2 DC Solution
 
 ## 3 
