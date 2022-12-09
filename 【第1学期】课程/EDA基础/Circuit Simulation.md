@@ -49,4 +49,15 @@ Nodal Matrix: $Y_{n}= i_{ns}$
 
 ## 2 DC Solution
 
-## 3 
+#### MNA Example
+1. KCL+Node
+2. KVL+Node
+3. Mx=b
+
+
+## 3 Nonlinear Circuit Simulation
+#### Two Loops:
+* **outer loop:** time advancing
+* **inner loop:** NR iteration
+
+I-V relation: $i = g(v)$
