@@ -36,5 +36,10 @@ $$
 \hat{\rho} e + \rho v_{i} \hat{v_{i}} &= (T_{ij}v_i)_{ij} + \rho b_{i}v_{i}+ \rho R - q_i \\
 (T_{ij}v_i)_{ij} &= v_{i} \frac{\partial T_{ij}}{\partial x_j}+ T_{ij} \frac{\partial v_i}{\partial x_j}
 \end{align*}
+$$
 
+
+
+$$
+T_{shear}^2=f_{i}f_{i}-(f \cdot n)^2
 $$
