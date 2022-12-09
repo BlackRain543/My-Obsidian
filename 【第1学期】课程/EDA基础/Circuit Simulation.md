@@ -80,3 +80,6 @@ $$
 * ***Trapezioidal Rule:*** $y(t_{n})=y(t_{n-1})+\frac{h}{2}[f(y(t_{n}))+f(y(t_{n-1}))]$
 
 稳定性，准确性
+
+Local Error、Global Error
+
