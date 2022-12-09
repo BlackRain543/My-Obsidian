@@ -61,3 +61,5 @@ Nodal Matrix: $Y_{n}= i_{ns}$
 * **inner loop:** NR iteration
 
 I-V relation: $i = g(v)$
+
+#### MOSFET Model:
