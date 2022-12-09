@@ -56,17 +56,25 @@ Nodal Matrix: $Y_{n}= i_{ns}$
 
 
 ## 3 Nonlinear Circuit Simulation
-#### Two Loops:
+### Two Loops:
 * ***outer loop:** time advancing
 * ***inner loop:** NR iteration
 
 I-V relation: $i = g(v)$
 
-#### MOSFET Model:
+### MOSFET Model:
 $I_{ds}=I_{ds}(V_{gs},V_{ds})$
 
 
-#### FE and BE:
+### Dynamic Element Stamping
+$$
+\begin{align*}
+C &= \frac{dv}{dt}\\
+L &= \frac{dI}{dt}
+\end{align*}
+$$
+
+### FE and BE:
 * ***Forward Euler:*** $y(t_{n})=y(t_{n-1})+hf(y(t_{n-1}))$
 * ***Backward Euler:** $y(t_{n})=y(t_{n-1})+hf(y(t_{n}))$
 
