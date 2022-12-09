@@ -10,14 +10,17 @@ $$
 $$
 v_{S}=Ri_{S}+L \frac{d}{dt} i_{S} + e_{S}
 $$
-Q轴D轴：
+##### Q轴，D轴电压方程：
 $$
 \begin{align*}
-u_{d}=R i_{d}+L_{d} \frac{d}{dt} i_{d} - w_{e} L_{q} i_{q} \\
+u_{d}&= R i_{d}+L_{d} \frac{d}{dt} i_{d} - w_{e} L_{q} i_{q} \\
+u_{q}&= R i_{q}+L_{q} \frac{d}{dt} i_{q} + w_{e}(L_{d}i_{d} + \psi_{f} ) 
 \end{align*}
 $$
 
-#### 耗损类型
+
+
+##### 耗损类型
 * 铁芯耗损：铁损
 * 电阻耗损：铜损
 
