@@ -69,12 +69,14 @@ $I_{ds}=I_{ds}(V_{gs},V_{ds})$
 ### Dynamic Element Stamping
 $$
 \begin{align*}
-C &= \frac{dv}{dt}\\
-L &= \frac{dI}{dt}
+v(t) &= C\frac{dv}{dt}\\
+v(t) &= L\frac{di}{dt}
 \end{align*}
 $$
 
 ### FE and BE:
 * ***Forward Euler:*** $y(t_{n})=y(t_{n-1})+hf(y(t_{n-1}))$
 * ***Backward Euler:** $y(t_{n})=y(t_{n-1})+hf(y(t_{n}))$
+* ***Trapezioidal Rule:*** $y(t_{n})=y(t_{n-1})+\frac{h}{2}[f(y(t_{n}))+f(y(t_{n-1}))]$
 
+稳定性，准确性
