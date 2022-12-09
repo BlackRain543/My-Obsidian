@@ -53,3 +53,9 @@ $$
 
 ---
 
+##### 第二定律：
+$$
+\frac{d}{dt}\int{\rho \eta d\upsilon}\ge \int{\rho sd\upsilon}+\oint{\tilde{d}da}
+$$
+
+
