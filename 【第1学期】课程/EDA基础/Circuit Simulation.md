@@ -69,3 +69,4 @@ $I_{ds}=I_{ds}(V_{gs},V_{ds})$
 #### FE and BE:
 * ***Forward Euler:*** $y(t_{n})=y(t_{n-1})+hf(y(t_{n-1}))$
 * ***Backward Euler:** $y(t_{n})=y(t_{n-1})+hf(y(t_{n}))$
+
