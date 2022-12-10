@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ca168f8f8c5abeae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【拓展】课程/经典控制理论/离散时间与连续时间.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "矢量磁场控制/BLDC.md",
+                "file": "【拓展】课程/经典控制理论/离散时间与连续时间.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "矢量磁场控制/BLDC.md",
+                "file": "【拓展】课程/经典控制理论/离散时间与连续时间.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "矢量磁场控制/BLDC.md"
+                "file": "【拓展】课程/经典控制理论/离散时间与连续时间.md"
               }
             }
           }
@@ -150,10 +162,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5200ef17ba0a608f",
+  "active": "ca168f8f8c5abeae",
   "lastOpenFiles": [
-    "矢量磁场控制/【FOC】.md",
     "矢量磁场控制/BLDC.md",
+    "矢量磁场控制/【FOC】.md",
     "【第1学期】课程/EDA基础/Circuit Simulation.md",
     "【第1学期】课程/EDA基础/Physical Design.md",
     "【拓展】课程/现代控制理论/Luenberger Observer.md",
