@@ -1,7 +1,7 @@
 {
   "translucency": true,
   "cssTheme": "Blue Topaz",
-  "baseFontSize": 18,
+  "baseFontSize": 17,
   "accentColor": "#cd6a0e",
   "theme": "obsidian",
   "nativeMenus": true,
