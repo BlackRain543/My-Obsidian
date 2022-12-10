@@ -58,13 +58,14 @@ kv = 转速 / 电压
 梯形轨迹
 负载通信测试
 
-
 $$
 v_{S}=Ri_{S}+L \frac{d}{dt} i_{S} + e_{S}
 $$
+
 $$
 e^{jw_{e}t}=cos(w_{e}t)+jsin(w_{e}t)
 $$
+
 $$
 \varPhi_{S}=\varPhi_{S} \cdot e^{jw_{e}t}
 $$

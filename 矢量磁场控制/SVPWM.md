@@ -34,7 +34,7 @@ $$
 \begin{aligned}
 sector &= Angle_{el}*3 / \pi + 1 \\
 T_1 &= \sqrt{3}sin(sector * \pi - Angle_{el})*U_{ref} \\
-T_1 &= \sqrt{3}sin(Angle_{el} - (sector - 1.0) * \pi)*U_{ref} \\
+T_2 &= \sqrt{3}sin(Angle_{el} - (sector - 1.0) * \pi)*U_{ref} \\
 T_0 &= 1 - T_1 - T_2
 \end{aligned}
 $$
