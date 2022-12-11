@@ -91,7 +91,17 @@ Local Error、Global Error
 #### NR:(Newton Raphson method)
 Taylor Series --> Iteration function
 
-Taylor Series
+**Taylor Series**
 $$
 f(x^{k+1})=f(x^{k})+ \frac{df(x^{k})}{dt}(x^{k+1}-x^{k})
+$$
+**Jacobian Matrix:**
+$$
+J(x) = 
+\begin{bmatrix}\frac{\partial F_{1}(x)}{x_{1}}  \end{bmatrix}
+$$
+
+**Iteration function：**
+$$
+x^{k+1}=x^{k}-[\frac{df(x^{k})}{dt}]^{-1}f(x^{k})
 $$
