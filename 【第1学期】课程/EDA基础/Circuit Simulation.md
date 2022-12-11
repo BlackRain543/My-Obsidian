@@ -95,13 +95,19 @@ Taylor Series --> Iteration function
 $$
 f(x^{k+1})=f(x^{k})+ \frac{df(x^{k})}{dt}(x^{k+1}-x^{k})
 $$
+
 **Jacobian Matrix:**
 $$
 J(x) = 
-\begin{bmatrix}\frac{\partial F_{1}(x)}{x_{1}}  \end{bmatrix}
+\begin{bmatrix}\frac{\partial F_{1}(x)}{x_{1}}  & \cdots & \frac{\partial F_{1}(x)}{x_{N}}\\ \vdots  &  \ddots &  \vdots \\ \frac{\partial F_{N}(x)}{x_{1}} & \cdots  & \frac{\partial F_{N}(x)}{x_{N}}\end{bmatrix}
 $$
 
 **Iteration function：**
 $$
 x^{k+1}=x^{k}-[\frac{df(x^{k})}{dt}]^{-1}f(x^{k})
+$$
+
+***Instead solve:***
+$$
+J(x^k)(x^{k+1}-x^{k})=-F(x^{k})
 $$
