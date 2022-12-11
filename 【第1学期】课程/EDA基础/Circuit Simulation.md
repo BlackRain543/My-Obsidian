@@ -50,9 +50,13 @@ Nodal Matrix: $Y_{n}= i_{ns}$
 #### MNA Example
 1. KCL+Node
 2. KVL+Node
-3. Mx=b$Mx=b,x=M^{-1}b$
+3. $Mx=b,x=M^{-1}b$
+
 
 ## 3 Nonlinear Circuit Simulation
+
+1D Example
+
 ### Two Loops:
 * ***outer loop:** time advancing
 * ***inner loop:** NR iteration
