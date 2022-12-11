@@ -88,3 +88,10 @@ Inductor Stamp
 
 Local Error、Global Error
 
+#### NR:(Newton Raphson method)
+Taylor Series --> Iteration function
+
+Taylor Series
+$$
+f(x^{k+1})=f(x^{k})+ \frac{df(x^{k})}{dt}(x^{k+1}-x^{k})
+$$
