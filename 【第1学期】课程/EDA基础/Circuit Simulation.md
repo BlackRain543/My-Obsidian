@@ -39,8 +39,6 @@ Nodal Matrix: $Y_{n}= i_{ns}$
 3. Write down unused branch equations
 4. Use KVL to eliminate branch voltages from previous equations
 
-
-
 ##### 电压控制电压源 VCVS
 ##### 电压控制电流源 VCCS
 
@@ -52,8 +50,7 @@ Nodal Matrix: $Y_{n}= i_{ns}$
 #### MNA Example
 1. KCL+Node
 2. KVL+Node
-3. Mx=b
-
+3. Mx=b$Mx=b,x=M^{-1}b$
 
 ## 3 Nonlinear Circuit Simulation
 ### Two Loops:

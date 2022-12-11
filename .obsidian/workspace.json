@@ -152,15 +152,15 @@
   },
   "active": "ca168f8f8c5abeae",
   "lastOpenFiles": [
-    "【第1学期】课程/EDA基础/ASIC.md",
+    "【第1学期】课程/EDA基础/Physical Design.md",
+    "【第1学期】课程/EDA基础/DSD.md",
+    "【第1学期】课程/EDA基础/DDR.md",
     "【第1学期】课程/EDA基础/电阻 电容 电感.md",
     "【第1学期】课程/EDA基础/【EDA】.md",
-    "矢量磁场控制/Park + Inverse Park变换.md",
-    "矢量磁场控制/BLDC.md",
-    "矢量磁场控制/Clark + Inverse Clark变换.md",
-    "矢量磁场控制/【FOC】.md",
-    "矢量磁场控制/SVPWM.md",
-    "README.md",
-    "Example.md"
+    "【第1学期】课程/EDA基础/Mid Pre.md",
+    "【第1学期】课程/EDA基础/Circuit Simulation.md",
+    "【第1学期】课程/EDA基础/LS.md",
+    "【第1学期】课程/EDA基础/ASIC.md",
+    "矢量磁场控制/Park + Inverse Park变换.md"
   ]
 }

@@ -22,5 +22,3 @@
 [[Circuit Simulation]]
 
 [[电阻 电容 电感]]
-
-[[Mid Pre]]（**期中报告**）
