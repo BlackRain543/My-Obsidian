@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【第1学期】课程/EDA基础/Circuit Simulation.md",
+                "file": "矢量磁场控制/SVPWM.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216,
-    "collapsed": true
+    "width": 216
   },
   "right": {
     "id": "4bdc3d112eb1bcc1",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【第1学期】课程/EDA基础/Circuit Simulation.md",
+                "file": "矢量磁场控制/SVPWM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "【第1学期】课程/EDA基础/Circuit Simulation.md",
+                "file": "矢量磁场控制/SVPWM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "【第1学期】课程/EDA基础/Circuit Simulation.md"
+                "file": "矢量磁场控制/SVPWM.md"
               }
             }
           }
@@ -153,8 +152,8 @@
   },
   "active": "ca168f8f8c5abeae",
   "lastOpenFiles": [
-    "未命名.md",
     "【第1学期】课程/EDA基础/Circuit Simulation.md",
+    "未命名.md",
     "【第1学期】课程/EDA基础/Physical Design.md",
     "【第1学期】课程/EDA基础/DSD.md",
     "【第1学期】课程/EDA基础/DDR.md",
