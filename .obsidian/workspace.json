@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "5200ef17ba0a608f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "矢量磁场控制/BLDC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ca168f8f8c5abeae",
             "type": "leaf",
             "state": {
@@ -44,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,11 +152,11 @@
   },
   "active": "ca168f8f8c5abeae",
   "lastOpenFiles": [
-    "矢量磁场控制/Clark + Inverse Clark变换.md",
     "矢量磁场控制/BLDC.md",
+    "矢量磁场控制/Park + Inverse Park变换.md",
+    "矢量磁场控制/Clark + Inverse Clark变换.md",
     "矢量磁场控制/【FOC】.md",
     "矢量磁场控制/SVPWM.md",
-    "矢量磁场控制/Park + Inverse Park变换.md",
     "README.md",
     "Example.md",
     "【拓展】课程/经典控制理论/离散时间与连续时间.md",
