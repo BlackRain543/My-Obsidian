@@ -1,8 +1,14 @@
 $t_{n}= Tn$
 
 $$
-\begin{bmatrix} \end{bmatrix}
+T=\left[ \begin{matrix}
+	\sigma _x&		\tau _{xy}&		\tau _{xz}\\
+	\tau _{yx}&		\sigma _y&		\tau _{yz}\\
+	\tau _{zx}&		\tau _{zy}&		\sigma _z\\
+\end{matrix} \right] 
 $$
+
+
 
 ### Principle of moment of momentum:
 
