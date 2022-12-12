@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【第1学期】课程/矩阵/Gram矩阵.md",
+                "file": "【第1学期】课程/矩阵/酉矩阵.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【第1学期】课程/矩阵/酉矩阵.md",
+                "file": "【第1学期】课程/矩阵/内积空间.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -174,17 +174,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d9956030a58577b6",
+  "active": "0e83d76ca4a1bbee",
   "lastOpenFiles": [
-    "【第1学期】课程/矩阵/内积空间.md",
+    "【第1学期】课程/矩阵/Jordan标准型.md",
     "【第1学期】课程/矩阵/Gram矩阵.md",
+    "【第1学期】课程/矩阵/Hermite 矩阵.md",
+    "【第1学期】课程/矩阵/基.md",
+    "【第1学期】课程/矩阵/秩.md",
     "【第1学期】课程/矩阵/酉矩阵.md",
     "【第1学期】课程/矩阵/【矩阵】.md",
-    "【第1学期】课程/矩阵/n阶矩阵可逆.md",
-    "【第1学期】课程/矩阵/P-1AP.md",
-    "【第1学期】课程/矩阵/Jordan标准型.md",
-    "【第1学期】课程/矩阵/Hermite 矩阵.md",
-    "【第1学期】课程/矩阵/常用公式.md",
-    "【第1学期】课程/连续介质力学/Stress.md"
+    "【第1学期】课程/矩阵/内积空间.md",
+    "【第1学期】课程/EDA基础/电阻 电容 电感.md",
+    "【第1学期】课程/矩阵/n阶矩阵可逆.md"
   ]
 }
