@@ -1,5 +1,9 @@
 $t_{n}= Tn$
 
+$$
+\begin{bmatrix} \end{bmatrix}
+$$
+
 ### Principle of moment of momentum:
 
 应力分析：
