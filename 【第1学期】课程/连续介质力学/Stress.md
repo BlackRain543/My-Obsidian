@@ -1,4 +1,10 @@
-$t_{n}= Tn$
+$$
+\begin{align*}
+t &=   T \cdot n\\
+T_{n} &= t \cdot n\\
+T_{s} &= t - T_{n} \cdot n
+\end{align*}
+$$
 
 $$
 T=\left[ \begin{matrix}
