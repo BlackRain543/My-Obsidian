@@ -2,7 +2,6 @@
 
 * [[State-Space]]
 
-* [[KF]]
 * [[LQR]]
 * [[MPC]]
 
