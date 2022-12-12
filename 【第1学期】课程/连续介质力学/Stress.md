@@ -10,6 +10,7 @@ $f_i(x,n) = f_i(x,e_j)n_j$
 $$
 \frac{\partial T_{ij}}{\partial x_{j}}
 $$
+
 ### Energy Equation
 
 
