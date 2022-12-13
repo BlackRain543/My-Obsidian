@@ -22,10 +22,11 @@ $$
 $f_i(x,n) = f_i(x,e_j)n_j$
 
 ### Equilibrium Equations
+平衡方程式：
+$$
+\frac{\partial T_{ij}}{\partial x_{j}} + \rho B_{i} = 0
+$$
 
-$$
-\frac{\partial T_{ij}}{\partial x_{j}}
-$$
 
 ### Energy Equation
 
