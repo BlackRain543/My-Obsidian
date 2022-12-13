@@ -14,6 +14,7 @@ T=\left[ \begin{matrix}
 \end{matrix} \right] 
 $$
 
+The normal to the plane：平面法线向量$n$
 
 
 ### Principle of moment of momentum:
