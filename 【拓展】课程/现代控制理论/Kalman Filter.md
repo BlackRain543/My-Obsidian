@@ -132,10 +132,19 @@ K_{k}=P_{k|k-1}C_{k}^{T}(C_{k}P_{k|k-1}C_{k}^{T}+R_{k})^{-1}
 $$
 ###### b.Update estimate
 $$
-\hat{x}_{k}=\hat{x}_{k|k-1}+K_{k}
+\hat{x}_{k}=\hat{x}_{k|k-1}+K_{k}(y_{k}-C_{k}\hat{x}_{k|k-1}-D_{k}u_{k})
 $$
 ###### c.Update error covariance
+$$
+P_{k}=(I-K_{k}C_{k})P_{k|k-1}
+$$
+---
 
+$$
+k = k+1
+$$
+
+---
 * 需要得出
 $$
 \hat{x}_{k+1}=E(x_{k+1}|Y_{k+1})=E(x_{k+1}|Y_{k},y_{k+1})
@@ -225,7 +234,8 @@ P_{k|k-1}=E(e_{k|k-1}e_{k|k-1}^T)=E(e_{k|k-1}e_{k|k-1}^T|Y_{k-1})
 \end{align*}
 $$
 
-卡尔曼增益系数：
+
+***卡尔曼增益系数：***
 $$
 K_{k}=P_{k|k-1}C_{k}^{T}(C_{k}P_{k|k-1}C_{k}^{T}+R_{k})^{-1}
 $$
