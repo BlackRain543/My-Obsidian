@@ -1,4 +1,24 @@
-$t_{n}= Tn$
+$$
+\begin{align*}
+t &=   T \cdot n\\
+T_{n} &= t \cdot n\\
+T_{s} &= t - T_{n} \cdot n\\
+T_{s} &= \sqrt{|t|^2-T_{n}^{2}}
+\end{align*}
+$$
+
+$$
+T=\left[ \begin{matrix}
+	\sigma _x&		\tau _{xy}&		\tau _{xz}\\
+	\tau _{yx}&		\sigma _y&		\tau _{yz}\\
+	\tau _{zx}&		\tau _{zy}&		\sigma _z\\
+\end{matrix} \right] 
+$$
+
+***The normal to the plane***：平面法线向量$n$
+***Magnitude of shearing stress***：剪切应力$T_{s}$
+***Normal stress***：法向应力，正应力$T_{n}$
+***The stress vector on the plane***：平面上的应力矢量$t$
 
 ### Principle of moment of momentum:
 
@@ -6,10 +26,12 @@ $t_{n}= Tn$
 $f_i(x,n) = f_i(x,e_j)n_j$
 
 ### Equilibrium Equations
+平衡方程式：
+$$
+\frac{\partial T_{ij}}{\partial x_{j}} + \rho B_{i} = 0
+$$
 
-$$
-\frac{\partial T_{ij}}{\partial x_{j}}
-$$
+
 ### Energy Equation
 
 

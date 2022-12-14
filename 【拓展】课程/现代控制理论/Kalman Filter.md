@@ -102,4 +102,8 @@ $$
 \begin{bmatrix} \hat x_{k+1}   \\ P_{k+1}\end{bmatrix} 
 $$
 
+优化算法
+本质：相对于一个error的最优估计
+
+Derivations
 

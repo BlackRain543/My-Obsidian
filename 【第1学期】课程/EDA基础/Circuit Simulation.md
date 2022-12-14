@@ -39,8 +39,6 @@ Nodal Matrix: $Y_{n}= i_{ns}$
 3. Write down unused branch equations
 4. Use KVL to eliminate branch voltages from previous equations
 
-
-
 ##### 电压控制电压源 VCVS
 ##### 电压控制电流源 VCCS
 
@@ -52,10 +50,35 @@ Nodal Matrix: $Y_{n}= i_{ns}$
 #### MNA Example
 1. KCL+Node
 2. KVL+Node
-3. Mx=b
+3. $Mx=b,x=M^{-1}b$
 
 
 ## 3 Nonlinear Circuit Simulation
+
+#### NR:(Newton Raphson method)
+Taylor Series --> Iteration function
+
+**Taylor Series**
+$$
+f(x^{k+1})=f(x^{k})+ \frac{df(x^{k})}{dt}(x^{k+1}-x^{k})
+$$
+
+**Jacobian Matrix:**
+$$
+J(x) = 
+\begin{bmatrix}\frac{\partial F_{1}(x)}{x_{1}}  & \cdots & \frac{\partial F_{1}(x)}{x_{N}}\\ \vdots  &  \ddots &  \vdots \\ \frac{\partial F_{N}(x)}{x_{1}} & \cdots  & \frac{\partial F_{N}(x)}{x_{N}}\end{bmatrix}
+$$
+
+**Iteration function：**
+$$
+x^{k+1}=x^{k}-[\frac{df(x^{k})}{dt}]^{-1}f(x^{k})
+$$
+
+***Instead solve:***
+$$
+J(x^k)(x^{k+1}-x^{k})=-F(x^{k})
+$$
+
 ### Two Loops:
 * ***outer loop:** time advancing
 * ***inner loop:** NR iteration
@@ -80,7 +103,6 @@ $$
 * ***Trapezioidal Rule:*** $y(t_{n})=y(t_{n-1})+\frac{h}{2}[f(y(t_{n}))+f(y(t_{n-1}))]$
 
 稳定性，准确性
-
 
 Capacitor Stamp
 Inductor Stamp

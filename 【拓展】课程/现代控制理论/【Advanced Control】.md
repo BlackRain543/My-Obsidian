@@ -2,7 +2,6 @@
 
 * [[State-Space]]
 
-* [[KF]]
 * [[LQR]]
 * [[MPC]]
 
@@ -17,3 +16,5 @@
 [[Drake]]
 
 [[Kalman Filter]]
+[[最小二乘法]]
+
