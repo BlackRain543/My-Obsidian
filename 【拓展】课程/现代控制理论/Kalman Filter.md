@@ -113,7 +113,7 @@ $\hat{x}_{k|k} ==> \hat{x}_{k+1|k} ==> \hat{x}_{k+1|k+1}$
 $\hat{P}_{k|k} ==> \hat{P}_{k+1|k} ==> \hat{P}_{k+1|k+1}$
 
 ## STEP:
-(1) ***Step 1***: prediction
+(1) ***Step 1***: **Prediction**
 $$
 \begin{align*}
 \hat{x}_{k+1|k} &= A_{k} \hat{x}_{k}+B_{k}u_k\\
@@ -121,7 +121,7 @@ P_{k+1|k} &= A_{k}P_{k}A_{k}^T+Q_k\\
 \end{align*}
 $$
 
-(2) ***Step 2***: measurement update
+(2) ***Step 2***: **measurement update**
 $$
 \begin{align*}
 Z&= x_{k+1}|Y_{k}\\
@@ -130,3 +130,4 @@ so,\\
 \hat{x}_{k+1}&= E(Z|W)
 \end{align*}
 $$
+
