@@ -113,15 +113,28 @@ $\hat{x}_{k|k} ==> \hat{x}_{k+1|k} ==> \hat{x}_{k+1|k+1}$
 $\hat{P}_{k|k} ==> \hat{P}_{k+1|k} ==> \hat{P}_{k+1|k+1}$
 
 ### 6.STEP:
-(1) ***Step 1***: **Prediction**
+---
+
+##### (1) ***Step 1***: **Prediction**
+###### a.Predict state ahead
 $$
-\begin{align*}
-\hat{x}_{k+1|k} &= A_{k} \hat{x}_{k}+B_{k}u_k\\
-P_{k+1|k} &= A_{k}P_{k}A_{k}^T+Q_k\\
-\end{align*}
+ \hat{x}_{k|k-1}=A_{k-1}\hat{x}_{k-1}+B_{k-1}u_{k-1}
+$$
+###### b.Prediction error covariance
+$$
+P_{k|k-1}=A_{k-1}P_{k-1}A_{k-1}^{T}+Q_{k-1}
 $$
 
-(2) ***Step 2***: **Measurement Update**
+##### (2) ***Step 2***: **Measurement Update**
+###### a.Compuye Kalman gain
+$$
+K_{k}=P_{k|k-1}C_{k}^{T}(C_{k}P_{k|k-1}C_{k}^{T}+R_{k})^{-1}
+$$
+###### b.Update estimate
+$$
+\hat{x}_{k}=\hat{x}_{k|k-1}+K_{k}
+$$
+###### c.Update error covariance
 
 * 需要得出
 $$
@@ -212,3 +225,7 @@ P_{k|k-1}=E(e_{k|k-1}e_{k|k-1}^T)=E(e_{k|k-1}e_{k|k-1}^T|Y_{k-1})
 \end{align*}
 $$
 
+卡尔曼增益系数：
+$$
+K_{k}=P_{k|k-1}C_{k}^{T}(C_{k}P_{k|k-1}C_{k}^{T}+R_{k})^{-1}
+$$
