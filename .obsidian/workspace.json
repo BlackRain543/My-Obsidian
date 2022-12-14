@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "矢量磁场控制/SVPWM.md",
+                "file": "【拓展】课程/现代控制理论/Kalman Filter.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216
+    "width": 216,
+    "collapsed": true
   },
   "right": {
     "id": "4bdc3d112eb1bcc1",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "矢量磁场控制/SVPWM.md",
+                "file": "【拓展】课程/现代控制理论/Kalman Filter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "矢量磁场控制/SVPWM.md",
+                "file": "【拓展】课程/现代控制理论/Kalman Filter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "矢量磁场控制/SVPWM.md"
+                "file": "【拓展】课程/现代控制理论/Kalman Filter.md"
               }
             }
           }
@@ -164,11 +165,11 @@
   },
   "active": "ca168f8f8c5abeae",
   "lastOpenFiles": [
+    "矢量磁场控制/SVPWM.md",
     "矢量磁场控制/BLDC.md",
     "矢量磁场控制/【FOC】.md",
     "矢量磁场控制/Clark + Inverse Clark变换.md",
     "矢量磁场控制/Park + Inverse Park变换.md",
-    "矢量磁场控制/SVPWM.md",
     "README.md",
     "Example.md",
     "【拓展】课程/经典控制理论/离散时间与连续时间.md",
