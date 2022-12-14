@@ -177,26 +177,38 @@ $$
 \end{align*}
 $$
 
-### *1*   System Model
+### *5*   Filter Error
 $$
 \begin{align*}
-x_{k+1} &= A_kx_k+B_ku_k+w_k\\
-y_{k}&= C_kx_k+D_ku_k+v_k
+e_{k}=x_{k} - \hat{x}_{k},E(e_{k})=0
 \end{align*}
 $$
 
-### *1*   System Model
+### *6*   Filter Error Covariance
 $$
 \begin{align*}
-x_{k+1} &= A_kx_k+B_ku_k+w_k\\
-y_{k}&= C_kx_k+D_ku_k+v_k
+P_{k}=E(e_{k}e_{k}^{T})=E(e_{k}e_{k}^{T}|Y_{k})
 \end{align*}
 $$
 
-### *1*   System Model
+### *7*  Predicted Estimate
 $$
 \begin{align*}
-x_{k+1} &= A_kx_k+B_ku_k+w_k\\
-y_{k}&= C_kx_k+D_ku_k+v_k
+\hat{x}_{k-1}&= E(x_k|Y_{k-1})
 \end{align*}
 $$
+
+### *8*  Prediction Error
+$$
+\begin{align*}
+e_{k|k-1}=x_{k} - \hat{x}_{k|k-1},E(e_{k|k-1})=0
+\end{align*}
+$$
+
+### *9*  Prediction Error Covariance
+$$
+\begin{align*}
+P_{k|k-1}=E(e_{k|k-1}e_{k|k-1}^T)=E(e_{k|k-1}e_{k|k-1}^T|Y_{k-1})
+\end{align*}
+$$
+
