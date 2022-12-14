@@ -112,7 +112,7 @@ prediction -> measurement update
 $\hat{x}_{k|k} ==> \hat{x}_{k+1|k} ==> \hat{x}_{k+1|k+1}$
 $\hat{P}_{k|k} ==> \hat{P}_{k+1|k} ==> \hat{P}_{k+1|k+1}$
 
-## STEP:
+### 6.STEP:
 (1) ***Step 1***: **Prediction**
 $$
 \begin{align*}
@@ -145,3 +145,58 @@ so,\\
 \end{align*}
 $$
 
+---
+# Summary
+### *1*   System Model
+$$
+\begin{align*}
+x_{k+1} &= A_kx_k+B_ku_k+w_k\\
+y_{k}&= C_kx_k+D_ku_k+v_k
+\end{align*}
+$$
+
+### *2*   Noise Model
+$$
+\begin{align*}
+w_{k} \sim N(0,Q_k)\\
+v_{k} \sim N(0,R_k)
+\end{align*}
+$$
+
+### *3*   Measurement history
+$$
+\begin{align*}
+Y_{k}=({y_{0},y_1,\cdots,y_{k}})
+\end{align*}
+$$
+
+### *4*   Filtered Estimate
+$$
+\begin{align*}
+\hat{x}=\hat{x}_{k|k}=E(x_{k}|Y_{k})
+\end{align*}
+$$
+
+### *1*   System Model
+$$
+\begin{align*}
+x_{k+1} &= A_kx_k+B_ku_k+w_k\\
+y_{k}&= C_kx_k+D_ku_k+v_k
+\end{align*}
+$$
+
+### *1*   System Model
+$$
+\begin{align*}
+x_{k+1} &= A_kx_k+B_ku_k+w_k\\
+y_{k}&= C_kx_k+D_ku_k+v_k
+\end{align*}
+$$
+
+### *1*   System Model
+$$
+\begin{align*}
+x_{k+1} &= A_kx_k+B_ku_k+w_k\\
+y_{k}&= C_kx_k+D_ku_k+v_k
+\end{align*}
+$$
