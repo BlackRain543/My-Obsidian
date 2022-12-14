@@ -121,7 +121,14 @@ P_{k+1|k} &= A_{k}P_{k}A_{k}^T+Q_k\\
 \end{align*}
 $$
 
-(2) ***Step 2***: **measurement update**
+(2) ***Step 2***: **Measurement Update**
+
+need:
+$$
+\hat{x}_{k+1}=E(x_{k+1}|Y_{k+1})=E(x_{k+1}|Y_{k},y_{k+1})
+$$
+
+
 $$
 \begin{align*}
 Z&= x_{k+1}|Y_{k}\\
@@ -130,4 +137,7 @@ so,\\
 \hat{x}_{k+1}&= E(Z|W)
 \end{align*}
 $$
-
+求解：
+$$
+E(x_{k+1}|Y_{k},y_{k+1})
+$$
