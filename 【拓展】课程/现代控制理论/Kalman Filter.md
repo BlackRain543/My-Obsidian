@@ -122,3 +122,11 @@ P_{k+1|k} &= A_{k}P_{k}A_{k}^T+Q_k\\
 $$
 
 (2) ***Step 2***: measurement update
+$$
+\begin{align*}
+Z&= x_{k+1}|Y_{k}\\
+W&= y_{k+1}|Y_{k}\\
+so,\\
+\hat{x}_{k+1}&= E(Z|W)
+\end{align*}
+$$
