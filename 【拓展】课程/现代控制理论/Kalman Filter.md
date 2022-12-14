@@ -102,8 +102,4 @@ $$
 \begin{bmatrix} \hat x_{k+1}   \\ P_{k+1}\end{bmatrix} 
 $$
 
-优化算法
-本质：相对于一个error的最优估计
-
-Derivations
-
+$E(x_{k}|Y_{k})$与$Cov(x_k,x_{k}|Y_{k})$
