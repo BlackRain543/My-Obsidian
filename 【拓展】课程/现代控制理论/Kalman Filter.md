@@ -102,3 +102,140 @@ $$
 \begin{bmatrix} \hat x_{k+1}   \\ P_{k+1}\end{bmatrix} 
 $$
 
+$E(x_{k}|Y_{k})$与$Cov(x_k,x_{k}|Y_{k})$
+
+$\hat{x}_{0},P_{0}$，得
+
+$\hat{x}_{k},P_{k}$与$\hat{x}_{k+1},P_{k+1}$
+
+prediction -> measurement update
+$\hat{x}_{k|k} ==> \hat{x}_{k+1|k} ==> \hat{x}_{k+1|k+1}$
+$\hat{P}_{k|k} ==> \hat{P}_{k+1|k} ==> \hat{P}_{k+1|k+1}$
+
+### 6.STEP:
+---
+
+##### (1) ***Step 1***: **Prediction**
+###### a.Predict state ahead
+$$
+ \hat{x}_{k|k-1}=A_{k-1}\hat{x}_{k-1}+B_{k-1}u_{k-1}
+$$
+###### b.Prediction error covariance
+$$
+P_{k|k-1}=A_{k-1}P_{k-1}A_{k-1}^{T}+Q_{k-1}
+$$
+
+##### (2) ***Step 2***: **Measurement Update**
+###### a.Compuye Kalman gain
+$$
+K_{k}=P_{k|k-1}C_{k}^{T}(C_{k}P_{k|k-1}C_{k}^{T}+R_{k})^{-1}
+$$
+###### b.Update estimate
+$$
+\hat{x}_{k}=\hat{x}_{k|k-1}+K_{k}(y_{k}-C_{k}\hat{x}_{k|k-1}-D_{k}u_{k})
+$$
+###### c.Update error covariance
+$$
+P_{k}=(I-K_{k}C_{k})P_{k|k-1}
+$$
+---
+
+$$
+k = k+1
+$$
+
+---
+* 需要得出
+$$
+\hat{x}_{k+1}=E(x_{k+1}|Y_{k+1})=E(x_{k+1}|Y_{k},y_{k+1})
+$$
+
+* 求解$x_{k+1}|{Y_{k},y_{k+1}}$的平均值与协方差
+
+* 求解：
+$$
+E(x_{k+1}|Y_{k},y_{k+1})
+$$
+
+ * 定义
+$$
+\begin{align*}
+Z&= x_{k+1}|Y_{k}\\
+W&= y_{k+1}|Y_{k}\\
+so,\\
+\hat{x}_{k+1}&= E(Z|W)
+\end{align*}
+$$
+
+---
+# Summary
+### *1*   System Model
+$$
+\begin{align*}
+x_{k+1} &= A_kx_k+B_ku_k+w_k\\
+y_{k}&= C_kx_k+D_ku_k+v_k
+\end{align*}
+$$
+
+### *2*   Noise Model
+$$
+\begin{align*}
+w_{k} \sim N(0,Q_k)\\
+v_{k} \sim N(0,R_k)
+\end{align*}
+$$
+
+### *3*   Measurement history
+$$
+\begin{align*}
+Y_{k}=({y_{0},y_1,\cdots,y_{k}})
+\end{align*}
+$$
+
+### *4*   Filtered Estimate
+$$
+\begin{align*}
+\hat{x}=\hat{x}_{k|k}=E(x_{k}|Y_{k})
+\end{align*}
+$$
+
+### *5*   Filter Error
+$$
+\begin{align*}
+e_{k}=x_{k} - \hat{x}_{k},E(e_{k})=0
+\end{align*}
+$$
+
+### *6*   Filter Error Covariance
+$$
+\begin{align*}
+P_{k}=E(e_{k}e_{k}^{T})=E(e_{k}e_{k}^{T}|Y_{k})
+\end{align*}
+$$
+
+### *7*  Predicted Estimate
+$$
+\begin{align*}
+\hat{x}_{k-1}&= E(x_k|Y_{k-1})
+\end{align*}
+$$
+
+### *8*  Prediction Error
+$$
+\begin{align*}
+e_{k|k-1}=x_{k} - \hat{x}_{k|k-1},E(e_{k|k-1})=0
+\end{align*}
+$$
+
+### *9*  Prediction Error Covariance
+$$
+\begin{align*}
+P_{k|k-1}=E(e_{k|k-1}e_{k|k-1}^T)=E(e_{k|k-1}e_{k|k-1}^T|Y_{k-1})
+\end{align*}
+$$
+
+
+***卡尔曼增益系数：***
+$$
+K_{k}=P_{k|k-1}C_{k}^{T}(C_{k}P_{k|k-1}C_{k}^{T}+R_{k})^{-1}
+$$

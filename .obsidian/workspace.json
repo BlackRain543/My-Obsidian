@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6f03e781295bba3b",
+        "id": "ffd89933553a25ae",
         "type": "tabs",
         "children": [
           {
-            "id": "ca168f8f8c5abeae",
+            "id": "853fcd03bbaf71e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【第1学期】课程/EDA基础/电阻 电容 电感.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8c1278bd00dbffd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【第1学期】课程/连续介质力学/Stress.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e83d76ca4a1bbee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【拓展】课程/现代控制理论/【Advanced Control】.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9956030a58577b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "【第1学期】课程/矩阵/内积空间.md",
+                "file": "【拓展】课程/现代控制理论/Kalman Filter.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "G",
+                "query": "tag:#Drake",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216
+    "width": 216,
+    "collapsed": true
   },
   "right": {
     "id": "4bdc3d112eb1bcc1",
@@ -122,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【第1学期】课程/连续介质力学/Stress.md",
+                "file": "【拓展】课程/现代控制理论/Kalman Filter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "【第1学期】课程/连续介质力学/Stress.md",
+                "file": "【拓展】课程/现代控制理论/Kalman Filter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "【第1学期】课程/连续介质力学/Stress.md"
+                "file": "【拓展】课程/现代控制理论/Kalman Filter.md"
               }
             }
           }
@@ -174,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d8c1278bd00dbffd",
+  "active": "853fcd03bbaf71e3",
   "lastOpenFiles": [
-    "【第1学期】课程/连续介质力学/Tensor.md",
-    "【第1学期】课程/矩阵/内积空间.md",
-    "【第1学期】课程/奇异值分解.md",
-    "【拓展】课程/现代控制理论/【Advanced Control】.md",
+    "conflict-files-obsidian-git.md",
+    "【拓展】课程/现代控制理论/Kalman Filter.md",
+    "【第1学期】课程/矩阵/常用公式.md",
+    "矢量磁场控制/BLDC.md",
     "【第1学期】课程/矩阵/Hermite 矩阵.md",
-    "【第1学期】课程/矩阵/【矩阵】.md",
-    "【拓展】课程/现代控制理论/Stability.md",
-    "【拓展】课程/现代控制理论/最小二乘法.md",
-    "【拓展】课程/现代控制理论/Observability.md",
-    "【拓展】课程/现代控制理论/MPC.md"
+    "矢量磁场控制/SVPWM.md",
+    "矢量磁场控制/【FOC】.md",
+    "矢量磁场控制/Clark + Inverse Clark变换.md",
+    "矢量磁场控制/Park + Inverse Park变换.md",
+    "README.md"
   ]
 }
