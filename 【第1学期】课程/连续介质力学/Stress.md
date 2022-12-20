@@ -1,7 +1,7 @@
 $$
 \begin{align*}
 t &=   T \cdot n\\
-T_{n} &= t \cdot n\\
+T_{n} &=  n  \cdot t\\
 T_{s} &= t - T_{n} \cdot n\\
 T_{s} &= \sqrt{|t|^2-T_{n}^{2}}
 \end{align*}
