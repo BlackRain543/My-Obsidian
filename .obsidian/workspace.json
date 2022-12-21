@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【第1学期】课程/连续介质力学/Stress.md",
+                "file": "【第1学期】课程/奇异值分解.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23e377a7b5c0b9b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "【第1学期】课程/EDA基础/HPC.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216
+    "width": 216,
+    "collapsed": true
   },
   "right": {
     "id": "4bdc3d112eb1bcc1",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【第1学期】课程/连续介质力学/Stress.md",
+                "file": "【第1学期】课程/EDA基础/HPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "【第1学期】课程/连续介质力学/Stress.md",
+                "file": "【第1学期】课程/EDA基础/HPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "【第1学期】课程/连续介质力学/Stress.md"
+                "file": "【第1学期】课程/EDA基础/HPC.md"
               }
             }
           }
@@ -137,10 +151,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0e83d76ca4a1bbee",
+  "active": "23e377a7b5c0b9b6",
   "lastOpenFiles": [
-    "【第1学期】课程/连续介质力学/Kronecker Delta.md",
-    "【第1学期】课程/连续介质力学/Kinematics of a Continuum.md",
+    "【第1学期】课程/奇异值分解.md",
+    "【第1学期】课程/EDA基础/【EDA】.md",
     "【第1学期】课程/矩阵/范数.md",
     "【拓展】课程/现代控制理论/【Advanced Control】.md",
     "【第1学期】课程/矩阵/内积空间.md",
