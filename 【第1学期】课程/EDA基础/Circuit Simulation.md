@@ -102,7 +102,9 @@ $$
 * ***Backward Euler:** $y(t_{n})=y(t_{n-1})+hf(y(t_{n}))$
 * ***Trapezioidal Rule:*** $y(t_{n})=y(t_{n-1})+\frac{h}{2}[f(y(t_{n}))+f(y(t_{n-1}))]$
 
+
 稳定性，准确性
+
 
 Capacitor Stamp
 Inductor Stamp
