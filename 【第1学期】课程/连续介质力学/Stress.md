@@ -34,13 +34,9 @@ $$
 
 ### Energy Equation
 
-
 $$
 \frac{D}{Dt} \int_{V_m}\rho dv = 0
 $$
-
-
-
 
 ##### Balance of energy:
 $$
