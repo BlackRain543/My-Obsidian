@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "【第1学期】课程/EDA基础/Circuit Simulation.md",
+                "file": "【第1学期】课程/连续介质力学/Kinematics of a Continuum.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "【第1学期】课程/EDA基础/Circuit Simulation.md",
+                "file": "【第1学期】课程/连续介质力学/Kinematics of a Continuum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "【第1学期】课程/EDA基础/Circuit Simulation.md",
+                "file": "【第1学期】课程/连续介质力学/Kinematics of a Continuum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "【第1学期】课程/EDA基础/Circuit Simulation.md"
+                "file": "【第1学期】课程/连续介质力学/Kinematics of a Continuum.md"
               }
             }
           }
@@ -152,15 +152,15 @@
   },
   "active": "23e377a7b5c0b9b6",
   "lastOpenFiles": [
+    "【第1学期】课程/连续介质力学/Kronecker Delta.md",
+    "【第1学期】课程/连续介质力学/Kinematics of a Continuum.md",
+    "【第1学期】课程/连续介质力学/Permutation Symbol.md",
+    "【第1学期】课程/连续介质力学/Stress.md",
+    "【第1学期】课程/连续介质力学/【Continuum Mechanics】.md",
+    "【拓展】课程/现代控制理论/最小二乘法.md",
+    "【拓展】课程/现代控制理论/控制器.md",
+    "【第1学期】课程/EDA基础/Circuit Simulation.md",
     "【第1学期】课程/EDA基础/Physical Design.md",
-    "【第1学期】课程/EDA基础/HPC.md",
-    "【第1学期】课程/奇异值分解.md",
-    "【第1学期】课程/EDA基础/【EDA】.md",
-    "【第1学期】课程/矩阵/范数.md",
-    "【拓展】课程/现代控制理论/【Advanced Control】.md",
-    "【第1学期】课程/矩阵/内积空间.md",
-    "【第1学期】课程/EDA基础/电阻 电容 电感.md",
-    "【第1学期】课程/矩阵/【矩阵】.md",
-    "【第1学期】课程/连续介质力学/Stress.md"
+    "【第1学期】课程/EDA基础/HPC.md"
   ]
 }
